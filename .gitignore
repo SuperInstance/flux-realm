@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+veto_agent
+.env
+.DS_Store
